@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0162-find-peak-element](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
@@ -21,6 +22,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Heap (Priority Queue)
@@ -56,4 +58,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 <!---LeetCode Topics End-->
