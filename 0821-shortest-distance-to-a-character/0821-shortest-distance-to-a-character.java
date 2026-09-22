@@ -3,13 +3,9 @@ class Solution {
 
         int n = s.length();
         int[] answer = new int[n];
-
         int distance = n;
-
-        // Left to right
         for (int i = 0; i < n; i++) {
-
-            if (s.charAt(i) == c) {
+ if (s.charAt(i) == c) {
                 distance = 0;
             } else {
                 distance++;
@@ -19,8 +15,6 @@ class Solution {
         }
 
         distance = n;
-
-        // Right to left
         for (int i = n - 1; i >= 0; i--) {
 
             if (s.charAt(i) == c) {
