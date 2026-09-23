@@ -15,6 +15,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3477-fruits-into-baskets-ii](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -22,6 +23,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3477-fruits-into-baskets-ii](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Sorting
 |  |
@@ -39,6 +41,7 @@
 | [0001-two-sum](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
@@ -81,6 +84,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
@@ -91,5 +95,6 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
