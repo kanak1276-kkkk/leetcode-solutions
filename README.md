@@ -17,6 +17,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3477-fruits-into-baskets-ii](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -76,6 +77,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Design
 |  |
