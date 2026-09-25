@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0796-rotate-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
@@ -101,4 +102,8 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
