@@ -78,6 +78,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -123,12 +125,14 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Recursion
 |  |
@@ -138,4 +142,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
