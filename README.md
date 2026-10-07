@@ -116,6 +116,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3498-reverse-degree-of-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -137,6 +138,7 @@
 | [0856-score-of-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 | [0856-score-of-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
