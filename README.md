@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0066-plus-one](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0162-find-peak-element](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0877-stone-game) |
