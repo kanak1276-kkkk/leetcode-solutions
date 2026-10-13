@@ -58,6 +58,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 ## Counting Sort
 |  |
@@ -113,6 +114,7 @@
 | [0020-valid-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
