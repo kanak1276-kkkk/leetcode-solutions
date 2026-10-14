@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -137,6 +139,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Stack
 |  |
@@ -187,4 +190,16 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0877-stone-game) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
