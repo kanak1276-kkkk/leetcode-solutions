@@ -111,6 +111,7 @@
 | [0009-palindrome-number](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0877-stone-game) |
