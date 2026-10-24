@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0066-plus-one](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0162-find-peak-element](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -138,6 +139,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0079-word-search) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0796-rotate-string) |
@@ -241,4 +243,16 @@
 | ------- |
 | [0268-missing-number](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0268-missing-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
