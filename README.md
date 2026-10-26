@@ -113,6 +113,7 @@
 | [0009-palindrome-number](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -243,6 +245,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0268-missing-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Backtracking
