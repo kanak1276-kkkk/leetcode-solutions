@@ -117,6 +117,7 @@
 | [0268-missing-number](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0877-stone-game) |
+| [2409-count-days-spent-together](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -151,6 +152,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2409-count-days-spent-together](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
