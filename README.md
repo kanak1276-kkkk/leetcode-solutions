@@ -119,6 +119,7 @@
 | [0231-power-of-two](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -199,6 +200,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0342-power-of-four) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -253,6 +255,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0342-power-of-four) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Backtracking
 |  |
