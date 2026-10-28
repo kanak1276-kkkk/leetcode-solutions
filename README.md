@@ -113,6 +113,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0189-rotate-array) |
