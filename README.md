@@ -54,6 +54,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
@@ -165,6 +166,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1859-sorting-the-sentence](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2409-count-days-spent-together](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -279,4 +281,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0202-happy-number) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
