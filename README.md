@@ -27,6 +27,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2679-sum-in-a-matrix](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
@@ -57,11 +58,13 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2679-sum-in-a-matrix](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2679-sum-in-a-matrix](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +105,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2679-sum-in-a-matrix](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [3477-fruits-into-baskets-ii](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Ordered Set
@@ -280,6 +284,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0079-word-search) |
+| [2679-sum-in-a-matrix](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
