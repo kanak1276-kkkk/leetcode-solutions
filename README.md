@@ -219,6 +219,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0342-power-of-four) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -265,6 +266,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Binary Indexed Tree
 |  |
 | ------- |
