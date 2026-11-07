@@ -283,6 +283,7 @@
 | [0231-power-of-two](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0461-hamming-distance](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Backtracking
 |  |
