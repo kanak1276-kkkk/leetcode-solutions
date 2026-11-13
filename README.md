@@ -27,6 +27,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2679-sum-in-a-matrix](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -115,6 +116,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2679-sum-in-a-matrix](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [3477-fruits-into-baskets-ii](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
