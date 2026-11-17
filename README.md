@@ -28,6 +28,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2679-sum-in-a-matrix](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -191,6 +192,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1859-sorting-the-sentence](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2409-count-days-spent-together](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3498-reverse-degree-of-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
