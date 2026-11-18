@@ -122,6 +122,7 @@
 | ------- |
 | [0844-backspace-string-compare](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2679-sum-in-a-matrix](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [3477-fruits-into-baskets-ii](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -196,6 +197,7 @@
 | [1859-sorting-the-sentence](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2390-removing-stars-from-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3498-reverse-degree-of-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -222,6 +224,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
