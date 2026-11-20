@@ -19,6 +19,7 @@
 | [0303-range-sum-query-immutable](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0739-daily-temperatures](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0821-shortest-distance-to-a-character](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -221,6 +222,7 @@
 | [0032-longest-valid-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -337,4 +339,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
