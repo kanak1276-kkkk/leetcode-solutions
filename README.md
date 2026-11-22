@@ -200,6 +200,7 @@
 | [1859-sorting-the-sentence](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
