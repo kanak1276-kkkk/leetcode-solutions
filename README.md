@@ -105,6 +105,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1332-remove-palindromic-subsequences](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Counting Sort
@@ -196,6 +197,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1332-remove-palindromic-subsequences](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1859-sorting-the-sentence](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
