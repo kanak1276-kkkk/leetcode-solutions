@@ -36,6 +36,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3477-fruits-into-baskets-ii](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -159,6 +160,7 @@
 | [0877-stone-game](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2409-count-days-spent-together](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -213,6 +215,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String Matching
 |  |
 | ------- |
@@ -256,6 +259,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
@@ -343,4 +347,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kanak1276-kkkk/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
